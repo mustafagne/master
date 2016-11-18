@@ -1,0 +1,1 @@
+sudo apt-get update && git clonehttps://github.com/micodev/chatter.git && cd chatter && chmod +x ./lua.sh && ./lua.sh run && ./lua.sh
